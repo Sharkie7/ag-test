@@ -1,0 +1,69 @@
+body {
+  background-image: linear-gradient(105deg, rgba(1,0,36,1) 0%, rgba(97,9,121,1) 54%, rgba(0,127,153,1) 100%);
+  font-family: "JetBrains Mono", monospace !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* @keyframes myanimation {
+
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
+  }
+
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(5deg);
+  }
+
+  50% {
+    transform: rotate(0eg);
+  }
+
+  75% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    background-color: yellow;
+  }
+
+  50% {
+    background-color: green;
+  }
+
+  75% {
+    background-color: brown;
+  }
+
+  100% {
+    background-color: red;
+  }
+} */

@@ -1,0 +1,10 @@
+export declare function getSessionData(): any;
+export declare function isSessionExpired(sdkConfig: any): boolean;
+export declare function isZendUserActive(sdkConfig: any): boolean;
+export declare function getZendUserActivityTime(): any;
+export declare function getPack(): boolean;
+export declare function clearSessionRelatedData(sdkKey: string): void;
+export declare function createSessionData(sdkKey: string): void;
+export declare function isSessionActive(): boolean;
+export declare function setSessionAsActive(): boolean;
+export declare function isSdkKeyChanged(sdkKey: string): boolean;
